@@ -19,3 +19,5 @@ Este foi apenas um dos dashboards/relatórios desenvolvidos para esse programa. 
 
 
 ![image](https://github.com/matheusaraujotrd/PwC-ClientRetention-Dashboard/assets/75196977/1436f0b5-c53c-4d9a-aadc-0962d4c3be59)
+![image](https://github.com/matheusaraujotrd/PwC-ClientRetention-Dashboard/assets/75196977/157f5d0d-2171-4f10-8352-b5ca7becea1b)
+
