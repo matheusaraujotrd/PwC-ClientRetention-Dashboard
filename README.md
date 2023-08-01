@@ -16,3 +16,6 @@ Um dashboard sobre a retenção de clientes/taxa de rotatividade que foi criado 
 Esses "Programas de Estágio Virtual" do Forage permitem que qualquer um trabalhe com tarefas reais de empresas reais. Lá, realizamos algumas tarefas do dia a dia de alguns dos funcionários dessas empresas.
 
 Este foi apenas um dos dashboards/relatórios desenvolvidos para esse programa. De qualquer forma, se tornou um dos meus projetos favoritos. Acredito que está bem completo, com uma página de visão geral (e um pequeno relatório!), dois painéis diferentes com informações separados por categorias e uma terceira página de insights para que o usuário possa verificar de onde o relatório tirou todas as suas informações.
+
+
+![image](https://github.com/matheusaraujotrd/PwC-ClientRetention-Dashboard/assets/75196977/1436f0b5-c53c-4d9a-aadc-0962d4c3be59)
